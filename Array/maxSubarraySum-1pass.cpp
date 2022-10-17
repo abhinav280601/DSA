@@ -23,6 +23,8 @@ public:
 };
 int main()
 {
-
+    string s1 = "eidbaooo";
+    for (auto x : s1)
+        cout << x << " ";
     return 0;
 }
